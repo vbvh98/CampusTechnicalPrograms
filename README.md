@@ -1,14 +1,16 @@
 # CampusTechnicalPrograms
-Solutions of questions generaly asked during technical skill test phase of campus recrutment process.
 
-Question List:
-- [ ] 1. Write a program to find the reverse of a given string.
+## Solutions of questions generaly asked during technical skill test phase of campus recrutment process.
+
+### Question List:
+
+- [x] 1. Write a program to find the reverse of a given string.
 - [ ] 2. Write a program to check the given string is palindrome or not.
 - [ ] 3. Write a program to reverse the given number.
 - [ ] 4. A Fibonacci sequence is defined as follows:
-        The first and second terms in the sequence are 0 and 1. Subsequent terms are found
-        by adding the preceding two terms in the sequence. Write a C program to generate the
-        first n terms of the sequence.
+     The first and second terms in the sequence are 0 and 1. Subsequent terms are found
+     by adding the preceding two terms in the sequence. Write a C program to generate the
+     first n terms of the sequence.
 - [ ] 5. Write a program to find the factorial of a given number.
 - [ ] 6. Write a program to find the factorial of a given number using recursion.
 - [ ] 7. Write a program to print the Fibonacci series using recursion.
@@ -20,9 +22,9 @@ Question List:
 - [ ] 13. Write a program to print the following (pyramid of numbers).
 - [ ] 14. Write a program to find the gcd of the given 2 numbers.
 - [ ] 15. Write a C program that uses functions to perform the following operations:
-        i.To insert a sub-string in to given main string from a given position.
-        ii.To delete n Characters from a given position in a given string.
-        iii.To replace a character of string either from beginning or ending or at a specified location.
+      i.To insert a sub-string in to given main string from a given position.
+      ii.To delete n Characters from a given position in a given string.
+      iii.To replace a character of string either from beginning or ending or at a specified location.
 - [ ] 16. Write a program to swap two values without using temporary variable.
 - [ ] 17. Write a program to check the given year is leap year or not.
 - [ ] 18. Wap to implement linear search using recursion.
@@ -38,10 +40,10 @@ Question List:
 - [ ] 28. Write a C function to generate Pascal's triangle.
 - [ ] 29. Write a function to convert a string into its opposite case.
 - [ ] 30. Write a program to print the grade of the student as follows:
-        If m>=60 print grade as FIRST
-        If m>=50 and m<60 print grade as SECOND
-        If m>=40 and m<50 print grade as THIRD
-        If m<40 and print grade as FAILED
+      If m>=60 print grade as FIRST
+      If m>=50 and m<60 print grade as SECOND
+      If m>=40 and m<50 print grade as THIRD
+      If m<40 and print grade as FAILED
 - [ ] 31. Write a C program to find the sum of individual digits of a positive integer.
 - [ ] 32. Wap for Matrix multiplication by checking compatibility.
 - [ ] 33. Write a function which takes 1d integer array as an argument and return the maximum value.
@@ -58,18 +60,18 @@ Question List:
 - [ ] 44. Write a program to illustrate usage of automatic,globel,extern,static and register variables.
 - [ ] 45. Write a program to find the sum of 1 d integer array(using malloc( ) ).
 - [ ] 46. Define a structure with the name complex which contains rael part and imaginary part.
-    write the functions to add, subtract and multiply two complex numbers using returning as an complex number.
+      write the functions to add, subtract and multiply two complex numbers using returning as an complex number.
 - [ ] 47. Define a structure with the name student which contains sno,sname,marks.
-    wap to read and n students information and print the details of the students whose marks greater than or equal to average marks of the students.
+      wap to read and n students information and print the details of the students whose marks greater than or equal to average marks of the students.
 - [ ] 49. Write a C program using structure to create a library catalogue with the following fields;
-        Access number,
-        author's name,
-        Title of the book,
-        year of publication,
-        publisher's name,
-        price.
+      Access number,
+      author's name,
+      Title of the book,
+      year of publication,
+      publisher's name,
+      price.
 - [ ] 50. Write a C program to compute the monthly pay of 100 employees using each employee's name, basic-pay.
-    The DA is computed as 52% of the basic pay. Gross-salary (Basic-pay+DA).Print the employees name and gross salary.
+      The DA is computed as 52% of the basic pay. Gross-salary (Basic-pay+DA).Print the employees name and gross salary.
 - [ ] 51. Write a function to compare two structure variables.
 - [ ] 52. Write a function to copy the contents of one student into another student record Of same.
 - [ ] 53. Write a program to illustrate unions.
