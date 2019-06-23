@@ -5,7 +5,7 @@
 ### Question List:
 
 - [x] 1. Write a program to find the reverse of a given string.
-- [ ] 2. Write a program to check the given string is palindrome or not.
+- [x] 2. Write a program to check the given string is palindrome or not.
 - [ ] 3. Write a program to reverse the given number.
 - [ ] 4. A Fibonacci sequence is defined as follows:
      The first and second terms in the sequence are 0 and 1. Subsequent terms are found
