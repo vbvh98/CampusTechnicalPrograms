@@ -1,9 +1,10 @@
-# CampusTechnicalPrograms
+***
 
-## Solutions of questions generaly asked during technical skill test phase of campus recrutment process.
+> # CampusTechnicalPrograms
+> ***Solutions of questions generaly asked during technical skill test phase of campus recrutment process.***
 
-### Question List:
-
+***
+**Question List:**
 - [x] 1. Write a program to find the reverse of a given string.
 - [x] 2. Write a program to check the given string is palindrome or not.
 - [x] 3. Write a program to reverse the given number.
