@@ -11,9 +11,9 @@
      The first and second terms in the sequence are 0 and 1. Subsequent terms are found
      by adding the preceding two terms in the sequence. Write a C program to generate the
      first n terms of the sequence.
-- [ ] 5. Write a program to find the factorial of a given number.
-- [ ] 6. Write a program to find the factorial of a given number using recursion.
-- [ ] 7. Write a program to print the Fibonacci series using recursion.
+- [x] 5. Write a program to find the factorial of a given number.
+- [x] 6. Write a program to find the factorial of a given number using recursion.
+- [x] 7. Write a program to print the Fibonacci series using recursion.
 - [ ] 8. Write a program finds the GCD of two given integers using recursion.
 - [ ] 9. Write a C program to check the given number is prime number or not.
 - [ ] 10. Write a function to interchange two integer values using call-by-value technique.
