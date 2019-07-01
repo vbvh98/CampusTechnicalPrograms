@@ -19,7 +19,7 @@
 | 9 | Write a C program to check the given number is prime number or not. | [View](../master/CPP/009-CheckPrime.cpp) | View | View |  
 | 10 | Write a function to interchange two integer values using call-by-value technique. | [View](../master/CPP/010-SwapByValue.cpp) | View | View |  
 | 11 | Write a function to interchange two integer values using call by reference technique. |  [View](../master/CPP/011-SwapByRef.cpp) | View | View |  
-| 12 | Write a program to find the power (a, b) using recursion. | View | View | View |  
+| 12 | Write a program to find the power (a, b) using recursion. | [View](../master/CPP/012-PowerRecursive.cpp) | View | View |  
 | 13 | Write a program to print the following (pyramid of numbers). | View | View | View |  
 | 14 | Write a program to find the gcd of the given 2 numbers. | View | View | View |  
 | 15 | Write a C program that uses functions to perform the following operations: i. To insert a sub-string in to given main string from a given position. ii. To delete n Characters from a given position in a given string. iii. To replace a character of string either from beginning or ending or at a specified location. | View | View | View |  
