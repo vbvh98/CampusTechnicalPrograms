@@ -15,13 +15,13 @@
 | 5 | Write a program to find the factorial of a given number. | [View](../master/CPP/005-GetFactorial.cpp) | View | View |  
 | 6 | Write a program to find the factorial of a given number using recursion. | [View](../master/CPP/006-GetFactorialcursion.cpp) | View | View |  
 | 7 | Write a program to print the Fibonacci series using recursion. | [View](../master/CPP/007-GetFibonacciRecursion.cpp) | View | View |  
-| 8 | Write a program finds the GCD of two given integers using recursion. | [View](../master/CPP/008-GCD2Numbers.cpp) | View | View |  
+| 8 | Write a program finds the GCD of two given integers using recursion. | View | View | View |  
 | 9 | Write a C program to check the given number is prime number or not. | [View](../master/CPP/009-CheckPrime.cpp) | View | View |  
 | 10 | Write a function to interchange two integer values using call-by-value technique. | [View](../master/CPP/010-SwapByValue.cpp) | View | View |  
 | 11 | Write a function to interchange two integer values using call by reference technique. |  [View](../master/CPP/011-SwapByRef.cpp) | View | View |  
 | 12 | Write a program to find the power (a, b) using recursion. | [View](../master/CPP/012-PowerRecursive.cpp) | View | View |  
 | 13 | Write a program to print the following (pyramid of numbers). | View | View | View |  
-| 14 | Write a program to find the gcd of the given 2 numbers. | View | View | View |  
+| 14 | Write a program to find the gcd of the given 2 numbers. | [View](../master/CPP/014-GCD2Numbers.cpp) | View | View |  
 | 15 | Write a C program that uses functions to perform the following operations: i. To insert a sub-string in to given main string from a given position. ii. To delete n Characters from a given position in a given string. iii. To replace a character of string either from beginning or ending or at a specified location. | View | View | View |  
 | 16 | Write a program to swap two values without using temporary variable. | View | View | View |  
 | 17 | Write a program to check the given year is leap year or not. | View | View | View |  
