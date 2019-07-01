@@ -16,7 +16,7 @@
 | 6 | Write a program to find the factorial of a given number using recursion. | [View](../master/CPP/006-GetFactorialcursion.cpp) | View | View |  
 | 7 | Write a program to print the Fibonacci series using recursion. | [View](../master/CPP/007-GetFibonacciRecursion.cpp) | View | View |  
 | 8 | Write a program finds the GCD of two given integers using recursion. | [View](../master/CPP/008-GCD2Numbers.cpp) | View | View |  
-| 9 | Write a C program to check the given number is prime number or not. | View | View | View |  
+| 9 | Write a C program to check the given number is prime number or not. | [View](../master/CPP/009-CheckPrime.cpp) | View | View |  
 | 10 | Write a function to interchange two integer values using call-by-value technique. | View | View | View |  
 | 11 | Write a function to interchange two integer values using call by reference technique. | View | View | View |  
 | 12 | Write a program to find the power (a, b) using recursion. | View | View | View |  
