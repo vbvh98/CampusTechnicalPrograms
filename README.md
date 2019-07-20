@@ -28,7 +28,7 @@
 | 18 | Wap to implement linear search using recursion. | [View](../master/CPP/018-LinearSearchRecursion.cpp) | View | View |  
 | 19 | Wap implement linear search without using recursion. | [View](../master/CPP/019-LinearSearch.cpp) | View | View |  
 | 20 | Wap to implement Binary search using recursion. | [View](../master/CPP/020-BinarySearchRecursion.cpp) | View | View |  
-| 21 | Wap implement Binary search without using recursion. | View | View | View |  
+| 21 | Wap implement Binary search without using recursion. | [View](../master/021-BinarySearch.cpp) | View | View |  
 | 22 | Write a function to sort 1d integer array using Bubble sort. | View | View | View |  
 | 23 | Write a function to sort 1d integer array using Selection sort. | View | View | View |  
 | 24 | Write a function to sort 1d integer array using Insertion sort. | View | View | View |  
