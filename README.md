@@ -22,12 +22,12 @@
 | 12 | Write a program to find the power (a, b) using recursion. | [View](../master/CPP/012-PowerRecursive.cpp) | View | View |  
 | 13 | Write a program to print the following (pyramid of numbers). | View | View | View |  
 | 14 | Write a program to find the gcd of the given 2 numbers. | [View](../master/CPP/014-GCD2Numbers.cpp) | View | View |  
-| 15 | Write a C program that uses functions to perform the following operations: i. To insert a sub-string in to given main string from a given position. ii. To delete n Characters from a given position in a given string. iii. To replace a character of string either from beginning or ending or at a specified location. | View | View | View |  
-| 16 | Write a program to swap two values without using temporary variable. | View | View | View |  
-| 17 | Write a program to check the given year is leap year or not. | View | View | View |  
-| 18 | Wap to implement linear search using recursion. | View | View | View |  
-| 19 | Wap implement linear search without using recursion. | View | View | View |  
-| 20 | Wap to implement Binary search using recursion. | View | View | View |  
+| 15 | Write a C program that uses functions to perform the following operations: i. To insert a sub-string in to given main string from a given position. ii. To delete n Characters from a given position in a given string. iii. To replace a character of string either from beginning or ending or at a specified location. | [View](../master/CPP/015-Strings.cpp) | View | View |  
+| 16 | Write a program to swap two values without using temporary variable. | [View](../master/CPP/016-swapWithoutTemp.cpp) | View | View |  
+| 17 | Write a program to check the given year is leap year or not. | [View](../master/CPP/017-CheckLeapYear.cpp) | View | View |  
+| 18 | Wap to implement linear search using recursion. | [View](../master/CPP/018-LinearSearchRecursion.cpp) | View | View |  
+| 19 | Wap implement linear search without using recursion. | [View](../master/CPP/019-LinearSearch.cpp) | View | View |  
+| 20 | Wap to implement Binary search using recursion. | [View](../master/CPP/020-BinarySearchRecursion.cpp) | View | View |  
 | 21 | Wap implement Binary search without using recursion. | View | View | View |  
 | 22 | Write a function to sort 1d integer array using Bubble sort. | View | View | View |  
 | 23 | Write a function to sort 1d integer array using Selection sort. | View | View | View |  
