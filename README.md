@@ -29,26 +29,26 @@
 | 19 | Wap implement linear search without using recursion. | [View](../master/CPP/019-LinearSearch.cpp) | View | View |  
 | 20 | Wap to implement Binary search using recursion. | [View](../master/CPP/020-BinarySearchRecursion.cpp) | View | View |  
 | 21 | Wap implement Binary search without using recursion. | [View](../master/CPP/021-BinarySearch.cpp) | View | View |  
-| 22 | Write a function to sort 1d integer array using Bubble sort. | View | View | View |  
-| 23 | Write a function to sort 1d integer array using Selection sort. | View | View | View |  
-| 24 | Write a function to sort 1d integer array using Insertion sort. | View | View | View |  
-| 25 | Write a function to sort 1d integer array using Merge sort. | View | View | View |  
-| 26 | Write a program to find both the largest and smallest number of an array of integers. | View | View | View |  
-| 27 | Write a program to find the smallest and largest element in a two dimensional array. | View | View | View |  
-| 28 | Write a C function to generate Pascal's triangle. | View | View | View |  
-| 29 | Write a function to convert a string into its opposite case. | View | View | View |  
-| 30 | Write a program to print the grade of the student as follows: If m>=60 print grade as FIRST If m>=50 and m<60 print grade as SECOND If m>=40 and m<50 print grade as THIRD If m<40 and print grade as FAILED | View | View | View |  
-| 31 | Write a C program to find the sum of individual digits of a positive integer. | View | View | View |  
-| 32 | Wap for Matrix multiplication by checking compatibility. | View | View | View |  
-| 33 | Write a function which takes 1d integer array as an argument and return the maximum value. | View | View | View |  
-| 34 | Write a function which takes a matrix as an argument and return its transpose. | View | View | View |  
-| 35 | Write a program to copy the string into another string using pointers. | View | View | View |  
-| 36 | Write a function which takes a string as an argument and return its length.(using pointers). | View | View | View |  
-| 37 | Write a program to find 1+1/2+1/3+1/4.... Value. | View | View | View |  
-| 38 | Wap to find NCr value. | View | View | View |  
-| 39 | Write a program to calculate mn value using do-while loop. | View | View | View |  
-| 40 | Write a program to check whether the given number is an Amstrong number or not. | View | View | View |  
-| 41 | Write a program to check whether the two strings are identical or not. | View | View | View |  
+| 22 | Write a function to sort 1d integer array using Bubble sort. | [View](../master/CPP/022-BubbleSort.cpp) | View | View |  
+| 23 | Write a function to sort 1d integer array using Selection sort. | [View](../master/CPP/023-SelectionSort.cpp) | View | View |  
+| 24 | Write a function to sort 1d integer array using Insertion sort. | [View](../master/CPP/024-InsertionSort.cpp) | View | View |  
+| 25 | Write a function to sort 1d integer array using Merge sort. | [View](../master/CPP/025-MergeSort.cpp) | View | View |  
+| 26 | Write a program to find both the largest and smallest number of an array of integers. | [View](../master/CPP/026-MaxMin1D.cpp) | View | View |  
+| 27 | Write a program to find the smallest and largest element in a two dimensional array. | [View](../master/CPP/027-MaxMin2D.cpp) | View | View |  
+| 28 | Write a C function to generate Pascal's triangle. | [View](../master/CPP/028-PascalTriangle.cpp) | View | View |  
+| 29 | Write a function to convert a string into its opposite case. | [View](../master/CPP/029-SwapCase.cpp) | View | View |  
+| 30 | Write a program to print the grade of the student as follows: If m>=60 print grade as FIRST If m>=50 and m<60 print grade as SECOND If m>=40 and m<50 print grade as THIRD If m<40 and print grade as FAILED | [View](../master/CPP/030-StudentGrading.cpp) | View | View |  
+| 31 | Write a C program to find the sum of individual digits of a positive integer. | [View](../master/CPP/031-SumOfDigit.cpp) | View | View |  
+| 32 | Wap for Matrix multiplication by checking compatibility. | [View](../master/CPP/032-MatrixMult.cpp) | View | View |  
+| 33 | Write a function which takes 1d integer array as an argument and return the maximum value. | [View](../master/CPP/033-MaxValueFunction.cpp) | View | View |  
+| 34 | Write a function which takes a matrix as an argument and return its transpose. | [View](../master/CPP/034-MatrixTranspose.cpp) | View | View |  
+| 35 | Write a program to copy the string into another string using pointers. | [View](../master/CPP/035-CopyStringPointers.cpp) | View | View |  
+| 36 | Write a function which takes a string as an argument and return its length.(using pointers). | [View](../master/CPP/036-ArgStringLength.cpp) | View | View |  
+| 37 | Write a program to find 1+1/2+1/3+1/4.... Value. | [View](../master/CPP/037-HPSum.cpp) | View | View |  
+| 38 | Wap to find NCr value. | [View](../master/CPP/038-Combination.cpp) | View | View |  
+| 39 | Write a program to calculate mn value using do-while loop. | [View](../master/CPP/039-MxNDoWhile.cpp) | View | View |  
+| 40 | Write a program to check whether the given number is an Amstrong number or not. | [View](../master/CPP/040-CheckArmstrong.cpp) | View | View |  
+| 41 | Write a program to check whether the two strings are identical or not. | [View](../master/CPP/041-IdenticalString.cpp) | View | View |  
 | 42 | Wap to sort the characters in a given string. | View | View | View |  
 | 43 | Wap to check the given matrix is symmetric or not. | View | View | View |  
 | 44 | Write a program to illustrate usage of automatic,globel,extern,static and register variables. | View | View | View |  
@@ -88,22 +88,22 @@
 | 78 | Upper triangular matrix in c | View | View | View |  
 | 79 | Strassen's matrix multiplication program in c | View | View | View |  
 | 80 | C program to find determinant of a matrix | View | View | View |  
-| 81 | Write a c program to find out largest element of an array. | View | View | View |  
-| 82 | Write a c program to find out second largest element of an unsorted array. | View | View | View |  
+| 81 | Write a c program to find out largest element of an array. | [View](../master/CPP/) | View | View |  
+| 82 | Write a c program to find out second largest element of an unsorted array. | [View](../master/CPP/) | View | View |  
 | 83 | Write a c program to find out second smallest element of an unsorted array. | View | View | View |  
 | 84 | Write a c program which deletes the duplicate element of an array. | View | View | View |  
 | 85 | Write a c program for delete an element at desired position in an array. | View | View | View |  
 | 86 | Write a c program for insert an element at desired position in an array. | View | View | View |  
 | 87 | C program to find largest and smallest number in an array | View | View | View |  
-| 88 | C program for Strong number. | View | View | View |  
-| 89 | C Program for Perfect number. | View | View | View |  
-| 90 | Write a c program to solve quadratic equation. | View | View | View |  
-| 91 | C program to print hello world without using semicolon | View | View | View |  
-| 92 | Write a c program for Floyd�s triangle. | View | View | View |  
-| 93 | Write a c program which produces its own source code as its output | View | View | View |  
-| 94 | Write a c program to add two numbers without using addition operator. | View | View | View |  
-| 95 | Write a c program to subtract two numbers without using subtraction operator. | View | View | View |  
-| 96 | Program in c to print 1 to 100 without using loop. | View | View | View |  
-| 97 | Write a c program to convert octal number to hexadecimal number. | View | View | View |  
-| 98 | C program to convert each digits of a number in words | View | View | View |  
-| 99 | Write a c program to convert decimal number to octal number. | View | View | View |
+| 88 | C program for Strong number. | [View](../master/CPP/087-MinMaxArray.cpp) | View | View |  
+| 89 | C Program for Perfect number. | [View](../master/CPP/088-CheckStrong.cpp) | View | View |  
+| 90 | Write a c program to solve quadratic equation. | [View](../master/CPP/090-SolveQuadEqn.cpp) | View | View |  
+| 91 | C program to print hello world without using semicolon | [View](../master/CPP/091-HelloWorldNoSemi.cpp) | View | View |  
+| 92 | Write a c program for Floyd�s triangle. | [View](../master/CPP/092-FloydsTrigle.cpp) | View | View |  
+| 93 | Write a c program which produces its own source code as its output | [View](../master/CPP/093-PrintSourceCode.cpp) | View | View |  
+| 94 | Write a c program to add two numbers without using addition operator. | [View](../master/CPP/094-AdditionNoAdd.cpp) | View | View |  
+| 95 | Write a c program to subtract two numbers without using subtraction operator. | [View](../master/CPP/095-DiffrenceNoMinus.cpp) | View | View |  
+| 96 | Program in c to print 1 to 100 without using loop. | [View](../master/CPP/096-1To100NoLoop.cpp) | View | View |  
+| 97 | Write a c program to convert octal number to hexadecimal number. | [View](../master/CPP/097-octalToHex.cpp) | View | View |  
+| 98 | C program to convert each digits of a number in words | [View](../master/CPP/098-DigitToWord.cpp) | View | View |  
+| 99 | Write a c program to convert decimal number to octal number. | [View](../master/CPP/099-DecimalToOctal.cpp) | View | View |
