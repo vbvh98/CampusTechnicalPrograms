@@ -1,7 +1,7 @@
----
-> # 100ProgramsForCampus
-  >
-  > **_Solutions of questions generaly asked during technical skill test phase of campus recrutment process._**
+# 100ProgramsForCampus
+
+**_Solutions of questions generaly asked during technical skill test phase of campus recrutment process._**
+
 ---
 
 **Question List:**
