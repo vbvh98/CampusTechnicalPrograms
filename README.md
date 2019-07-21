@@ -88,15 +88,15 @@
 | 78 | Upper triangular matrix in c | View | View | View |  
 | 79 | Strassen's matrix multiplication program in c | View | View | View |  
 | 80 | C program to find determinant of a matrix | View | View | View |  
-| 81 | Write a c program to find out largest element of an array. | [View](../master/CPP/) | View | View |  
-| 82 | Write a c program to find out second largest element of an unsorted array. | [View](../master/CPP/) | View | View |  
+| 81 | Write a c program to find out largest element of an array. | [View](../master/CPP/081-LargestNumber.cpp) | View | View |  
+| 82 | Write a c program to find out second largest element of an unsorted array. | [View](../master/CPP/082-SecondLargest.cpp) | View | View |  
 | 83 | Write a c program to find out second smallest element of an unsorted array. | View | View | View |  
 | 84 | Write a c program which deletes the duplicate element of an array. | View | View | View |  
 | 85 | Write a c program for delete an element at desired position in an array. | View | View | View |  
 | 86 | Write a c program for insert an element at desired position in an array. | View | View | View |  
-| 87 | C program to find largest and smallest number in an array | View | View | View |  
-| 88 | C program for Strong number. | [View](../master/CPP/087-MinMaxArray.cpp) | View | View |  
-| 89 | C Program for Perfect number. | [View](../master/CPP/088-CheckStrong.cpp) | View | View |  
+| 87 | C program to find largest and smallest number in an array | [View](../master/CPP/087-MinMaxArray.cpp) | View | View |  
+| 88 | C program for Strong number. | [View](../master/CPP/088-CheckStrong.cpp) | View | View |  
+| 89 | C Program for Perfect number. | [View](../master/CPP/089-CheckPerfect.cpp) | View | View |  
 | 90 | Write a c program to solve quadratic equation. | [View](../master/CPP/090-SolveQuadEqn.cpp) | View | View |  
 | 91 | C program to print hello world without using semicolon | [View](../master/CPP/091-HelloWorldNoSemi.cpp) | View | View |  
 | 92 | Write a c program for Floyd�s triangle. | [View](../master/CPP/092-FloydsTrigle.cpp) | View | View |  
